@@ -4,7 +4,7 @@
 ## Overview of Project: Explain the purpose of this analysis.
 Steve's parents are looking to invest in green energy stocks. They have invested all their money in DAQO New Energy Corp (ticker symbol: *DQ*), a company that makes silicon wafers for solar panels. Steve is concerned with diversifying their funds. He has acquired the data of 12 green energy stocks for the years 2017 and 2018. He needs assistance analyzing this data.
 
-## Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+## Results
 
 Visual Basic for Applications (VBA) was used to process the data from the [spreadsheet (zipped file)](VBA_challenge.zip) containing the green energy stocks data, that was created by Steve.
 
@@ -27,10 +27,10 @@ A new, refactored, function was created from the first attempt above, named *All
 
 The function uses arrays to store volumes, starting and ending prices for each ticker. It runs through a loop to read the data, and a different loop to write the results. 
 
-![screenshot of refactored analysis for 2017](resources/VBA_CHallenge_2017.png)
+![screenshot of refactored analysis for 2017](resources/VBA_Challenge_2017.png)
 *Screenshot of results for refactored analysis for 2017*
 
-![screenshot of refactored analysis for 2018](resources/VBA_CHallenge_2018.png)
+![screenshot of refactored analysis for 2018](resources/VBA_Challenge_2018.png)
 *Screenshot of results for refactored analysis for 2018*
 
 
